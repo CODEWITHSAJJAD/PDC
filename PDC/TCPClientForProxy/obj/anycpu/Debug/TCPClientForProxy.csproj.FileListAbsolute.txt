@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPClientForProxy/bin/Debug/TCPClientForProxy.exe
+/Users/admin/Projects/PDC/TCPClientForProxy/bin/Debug/TCPClientForProxy.pdb
+/Users/admin/Projects/PDC/TCPClientForProxy/obj/anycpu/Debug/TCPClientForProxy.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPClientForProxy/obj/anycpu/Debug/TCPClientForProxy.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPClientForProxy/obj/anycpu/Debug/TCPClientForProxy.exe
+/Users/admin/Projects/PDC/TCPClientForProxy/obj/anycpu/Debug/TCPClientForProxy.pdb

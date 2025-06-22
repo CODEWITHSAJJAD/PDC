@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TCPClientG/bin/Debug/TCPClientG.exe
+/Users/admin/Projects/PDC/TCPClientG/bin/Debug/TCPClientG.pdb
+/Users/admin/Projects/PDC/TCPClientG/obj/anycpu/Debug/TCPClientG.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPClientG/obj/anycpu/Debug/TCPClientG.exe
+/Users/admin/Projects/PDC/TCPClientG/obj/anycpu/Debug/TCPClientG.pdb

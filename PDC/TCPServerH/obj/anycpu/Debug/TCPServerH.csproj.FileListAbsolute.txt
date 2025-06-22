@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TCPServerH/bin/Debug/TCPServerH.exe
+/Users/admin/Projects/PDC/TCPServerH/bin/Debug/TCPServerH.pdb
+/Users/admin/Projects/PDC/TCPServerH/obj/anycpu/Debug/TCPServerH.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerH/obj/anycpu/Debug/TCPServerH.exe
+/Users/admin/Projects/PDC/TCPServerH/obj/anycpu/Debug/TCPServerH.pdb

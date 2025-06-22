@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TcpChatClientE/bin/Debug/TcpChatClientE.exe
+/Users/admin/Projects/PDC/TcpChatClientE/bin/Debug/TcpChatClientE.pdb
+/Users/admin/Projects/PDC/TcpChatClientE/obj/anycpu/Debug/TcpChatClientE.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TcpChatClientE/obj/anycpu/Debug/TcpChatClientE.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TcpChatClientE/obj/anycpu/Debug/TcpChatClientE.exe
+/Users/admin/Projects/PDC/TcpChatClientE/obj/anycpu/Debug/TcpChatClientE.pdb

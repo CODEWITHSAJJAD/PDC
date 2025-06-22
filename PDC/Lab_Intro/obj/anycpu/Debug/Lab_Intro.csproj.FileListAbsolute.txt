@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/Lab_Intro/bin/Debug/Lab_Intro.exe
+/Users/admin/Projects/PDC/Lab_Intro/bin/Debug/Lab_Intro.pdb
+/Users/admin/Projects/PDC/Lab_Intro/obj/anycpu/Debug/Lab_Intro.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/Lab_Intro/obj/anycpu/Debug/Lab_Intro.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/Lab_Intro/obj/anycpu/Debug/Lab_Intro.exe
+/Users/admin/Projects/PDC/Lab_Intro/obj/anycpu/Debug/Lab_Intro.pdb

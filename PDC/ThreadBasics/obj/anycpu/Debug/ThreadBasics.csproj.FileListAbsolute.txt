@@ -1,0 +1,6 @@
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/bin/Debug/ThreadBasics.exe
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/bin/Debug/ThreadBasics.pdb
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/obj/anycpu/Debug/ThreadBasics.csproj.AssemblyReference.cache
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/obj/anycpu/Debug/ThreadBasics.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/obj/anycpu/Debug/ThreadBasics.exe
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/ThreadBasics/obj/anycpu/Debug/ThreadBasics.pdb

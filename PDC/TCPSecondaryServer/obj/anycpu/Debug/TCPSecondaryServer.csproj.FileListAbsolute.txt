@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TCPSecondaryServer/bin/Debug/TCPSecondaryServer.exe
+/Users/admin/Projects/PDC/TCPSecondaryServer/bin/Debug/TCPSecondaryServer.pdb
+/Users/admin/Projects/PDC/TCPSecondaryServer/obj/anycpu/Debug/TCPSecondaryServer.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPSecondaryServer/obj/anycpu/Debug/TCPSecondaryServer.exe
+/Users/admin/Projects/PDC/TCPSecondaryServer/obj/anycpu/Debug/TCPSecondaryServer.pdb

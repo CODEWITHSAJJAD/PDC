@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/ReaderWriterLockDemo/bin/Debug/ReaderWriterLockDemo.exe
+/Users/admin/Projects/PDC/ReaderWriterLockDemo/bin/Debug/ReaderWriterLockDemo.pdb
+/Users/admin/Projects/PDC/ReaderWriterLockDemo/obj/anycpu/Debug/910.ReaderWriterLockDemo.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ReaderWriterLockDemo/obj/anycpu/Debug/ReaderWriterLockDemo.exe
+/Users/admin/Projects/PDC/ReaderWriterLockDemo/obj/anycpu/Debug/ReaderWriterLockDemo.pdb

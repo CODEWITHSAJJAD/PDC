@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/LoadBalance_RoundRobinProxyServer/bin/Debug/LoadBalance_RoundRobinProxyServer.exe
+/Users/admin/Projects/PDC/LoadBalance_RoundRobinProxyServer/bin/Debug/LoadBalance_RoundRobinProxyServer.pdb
+/Users/admin/Projects/PDC/LoadBalance_RoundRobinProxyServer/obj/anycpu/Debug/LoadBalance_ProxyServer.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/LoadBalance_RoundRobinProxyServer/obj/anycpu/Debug/LoadBalance_RoundRobinProxyServer.exe
+/Users/admin/Projects/PDC/LoadBalance_RoundRobinProxyServer/obj/anycpu/Debug/LoadBalance_RoundRobinProxyServer.pdb

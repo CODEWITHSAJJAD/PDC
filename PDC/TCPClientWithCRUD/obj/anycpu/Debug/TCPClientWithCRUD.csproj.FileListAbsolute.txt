@@ -1,0 +1,2 @@
+/Users/admin/Projects/PDC/TCPClientWithCRUD/obj/anycpu/Debug/TCPClientWithCRUD.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPClientWithCRUD/obj/anycpu/Debug/TCPClientWithCRUD.csproj.CoreCompileInputs.cache

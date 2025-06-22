@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPServerG/bin/Debug/TCPServerG.exe
+/Users/admin/Projects/PDC/TCPServerG/bin/Debug/TCPServerG.pdb
+/Users/admin/Projects/PDC/TCPServerG/obj/anycpu/Debug/TCPServerG.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPServerG/obj/anycpu/Debug/TCPServerG.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerG/obj/anycpu/Debug/TCPServerG.exe
+/Users/admin/Projects/PDC/TCPServerG/obj/anycpu/Debug/TCPServerG.pdb

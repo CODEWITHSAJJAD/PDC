@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/UDPServernA/bin/Debug/UDPServernA.exe
+/Users/admin/Projects/PDC/UDPServernA/bin/Debug/UDPServernA.pdb
+/Users/admin/Projects/PDC/UDPServernA/obj/anycpu/Debug/UDPServernA.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/UDPServernA/obj/anycpu/Debug/UDPServernA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/UDPServernA/obj/anycpu/Debug/UDPServernA.exe
+/Users/admin/Projects/PDC/UDPServernA/obj/anycpu/Debug/UDPServernA.pdb

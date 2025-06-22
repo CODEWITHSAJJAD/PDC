@@ -1,0 +1,9 @@
+/Users/admin/Projects/PDC/TCPServerB/bin/Debug/TCPServerB.exe
+/Users/admin/Projects/PDC/TCPServerB/bin/Debug/TCPServerB.pdb
+/Users/admin/Projects/PDC/TCPServerB/obj/anycpu/Debug/TCPServerB.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPServerB/obj/anycpu/Debug/TCPServerB.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerB/obj/anycpu/Debug/TCPServerB.exe
+/Users/admin/Projects/PDC/TCPServerB/obj/anycpu/Debug/TCPServerB.pdb
+/Users/admin/Projects/PDC/TCPServerB/bin/Debug/StudentData.dll
+/Users/admin/Projects/PDC/TCPServerB/bin/Debug/StudentData.pdb
+/Users/admin/Projects/PDC/TCPServerB/obj/anycpu/Debug/TCPServerB.csproj.CopyComplete

@@ -1,0 +1,39 @@
+﻿-----------
+Add
+-----------
+
+{
+  "AuthCode": "AUTH123",
+  "Operation": "Add",
+  "Payload": { "RegNo": "S001", "Name": "John Doe", "Gender": "Male", "Age": 20, "Program": "CS", "SemesterNo": 4, "CGPA": 3.5 }
+}
+
+-----------
+Retrieve
+-----------
+{
+  "AuthCode": "AUTH123",
+  "Operation": "Retrieve",
+  "Payload": "S001"
+}
+
+-----------
+Delete
+-----------
+{
+  "AuthCode": "AUTH123",
+  "Operation": "Delete",
+  "Payload": "S001"
+}
+
+
+-----------
+Update
+-----------
+{
+  "AuthCode": "AUTH123",
+  "Operation": "Update",
+  "Payload": { "RegNo": "S001", "Name": "Jane Doe", "Gender": "Female", "Age": 21, "Program": "IT", "SemesterNo": 5, "CGPA": 3.8 }
+}
+
+

@@ -1,0 +1,9 @@
+/Users/admin/Projects/PDC/TCPServerWithCRUD/bin/Debug/TCPServerWithCRUD.exe
+/Users/admin/Projects/PDC/TCPServerWithCRUD/bin/Debug/TCPServerWithCRUD.pdb
+/Users/admin/Projects/PDC/TCPServerWithCRUD/bin/Debug/Newtonsoft.Json.dll
+/Users/admin/Projects/PDC/TCPServerWithCRUD/bin/Debug/Newtonsoft.Json.xml
+/Users/admin/Projects/PDC/TCPServerWithCRUD/obj/anycpu/Debug/TCPServerWithCRUD.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPServerWithCRUD/obj/anycpu/Debug/TCPServerWithCRUD.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerWithCRUD/obj/anycpu/Debug/TCPServerWithCRUD.csproj.CopyComplete
+/Users/admin/Projects/PDC/TCPServerWithCRUD/obj/anycpu/Debug/TCPServerWithCRUD.exe
+/Users/admin/Projects/PDC/TCPServerWithCRUD/obj/anycpu/Debug/TCPServerWithCRUD.pdb

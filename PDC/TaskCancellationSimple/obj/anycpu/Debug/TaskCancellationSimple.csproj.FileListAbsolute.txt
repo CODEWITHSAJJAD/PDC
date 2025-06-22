@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TaskCancellationSimple/bin/Debug/TaskCancellationSimple.exe
+/Users/admin/Projects/PDC/TaskCancellationSimple/bin/Debug/TaskCancellationSimple.pdb
+/Users/admin/Projects/PDC/TaskCancellationSimple/obj/anycpu/Debug/TaskCancellationSimple.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TaskCancellationSimple/obj/anycpu/Debug/TaskCancellationSimple.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TaskCancellationSimple/obj/anycpu/Debug/TaskCancellationSimple.exe
+/Users/admin/Projects/PDC/TaskCancellationSimple/obj/anycpu/Debug/TaskCancellationSimple.pdb

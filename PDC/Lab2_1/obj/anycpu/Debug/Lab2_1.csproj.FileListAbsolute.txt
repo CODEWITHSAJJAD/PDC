@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/Lab2_1/bin/Debug/Lab2_1.exe
+/Users/admin/Projects/PDC/Lab2_1/bin/Debug/Lab2_1.pdb
+/Users/admin/Projects/PDC/Lab2_1/obj/anycpu/Debug/Lab2_1.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/Lab2_1/obj/anycpu/Debug/Lab2_1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/Lab2_1/obj/anycpu/Debug/Lab2_1.exe
+/Users/admin/Projects/PDC/Lab2_1/obj/anycpu/Debug/Lab2_1.pdb

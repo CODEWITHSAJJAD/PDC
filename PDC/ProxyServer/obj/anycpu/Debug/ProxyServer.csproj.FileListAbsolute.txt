@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/ProxyServer/bin/Debug/ProxyServer.exe
+/Users/admin/Projects/PDC/ProxyServer/bin/Debug/ProxyServer.pdb
+/Users/admin/Projects/PDC/ProxyServer/obj/anycpu/Debug/ProxyServer.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/ProxyServer/obj/anycpu/Debug/ProxyServer.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ProxyServer/obj/anycpu/Debug/ProxyServer.exe
+/Users/admin/Projects/PDC/ProxyServer/obj/anycpu/Debug/ProxyServer.pdb

@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TCPAuthClientA/bin/Debug/TCPAuthClientA.exe
+/Users/admin/Projects/PDC/TCPAuthClientA/bin/Debug/TCPAuthClientA.pdb
+/Users/admin/Projects/PDC/TCPAuthClientA/obj/anycpu/Debug/TCPAuthClientA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPAuthClientA/obj/anycpu/Debug/TCPAuthClientA.exe
+/Users/admin/Projects/PDC/TCPAuthClientA/obj/anycpu/Debug/TCPAuthClientA.pdb

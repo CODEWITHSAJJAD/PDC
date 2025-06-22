@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TcpChatServerE/bin/Debug/TcpChatServerE.exe
+/Users/admin/Projects/PDC/TcpChatServerE/bin/Debug/TcpChatServerE.pdb
+/Users/admin/Projects/PDC/TcpChatServerE/obj/anycpu/Debug/TcpChatServerE.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TcpChatServerE/obj/anycpu/Debug/TcpChatServerE.exe
+/Users/admin/Projects/PDC/TcpChatServerE/obj/anycpu/Debug/TcpChatServerE.pdb

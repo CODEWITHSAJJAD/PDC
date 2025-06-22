@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/bin/Debug/SynchUsingTaskFactory.exe
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/bin/Debug/SynchUsingTaskFactory.pdb
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/obj/anycpu/Debug/SynchUsingTaskFactory.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/obj/anycpu/Debug/SynchUsingTaskFactory.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/obj/anycpu/Debug/SynchUsingTaskFactory.exe
+/Users/admin/Projects/PDC/SynchUsingTaskFactory/obj/anycpu/Debug/SynchUsingTaskFactory.pdb

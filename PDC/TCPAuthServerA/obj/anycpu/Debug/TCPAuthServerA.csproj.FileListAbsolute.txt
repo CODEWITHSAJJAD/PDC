@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPAuthServerA/bin/Debug/TCPAuthServerA.exe
+/Users/admin/Projects/PDC/TCPAuthServerA/bin/Debug/TCPAuthServerA.pdb
+/Users/admin/Projects/PDC/TCPAuthServerA/obj/anycpu/Debug/TCPAuthServerA.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPAuthServerA/obj/anycpu/Debug/TCPAuthServerA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPAuthServerA/obj/anycpu/Debug/TCPAuthServerA.exe
+/Users/admin/Projects/PDC/TCPAuthServerA/obj/anycpu/Debug/TCPAuthServerA.pdb

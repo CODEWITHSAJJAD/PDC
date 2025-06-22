@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TCPPrimaryServer/bin/Debug/TCPPrimaryServer.exe
+/Users/admin/Projects/PDC/TCPPrimaryServer/bin/Debug/TCPPrimaryServer.pdb
+/Users/admin/Projects/PDC/TCPPrimaryServer/obj/anycpu/Debug/TCPPrimaryServer.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPPrimaryServer/obj/anycpu/Debug/TCPPrimaryServer.exe
+/Users/admin/Projects/PDC/TCPPrimaryServer/obj/anycpu/Debug/TCPPrimaryServer.pdb

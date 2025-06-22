@@ -1,0 +1,10 @@
+/Users/admin/Projects/PDC/CustomData/bin/Debug/netstandard2.1/CustomData.deps.json
+/Users/admin/Projects/PDC/CustomData/bin/Debug/netstandard2.1/CustomData.dll
+/Users/admin/Projects/PDC/CustomData/bin/Debug/netstandard2.1/CustomData.pdb
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.AssemblyInfoInputs.cache
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.AssemblyInfo.cs
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.dll
+/Users/admin/Projects/PDC/CustomData/obj/Debug/netstandard2.1/CustomData.pdb

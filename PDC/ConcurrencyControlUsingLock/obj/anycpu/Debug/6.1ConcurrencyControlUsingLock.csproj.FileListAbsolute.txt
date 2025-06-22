@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/ConcurrencyControlUsingLock/bin/Debug/ConcurrencyControlUsingLock.exe
+/Users/admin/Projects/PDC/ConcurrencyControlUsingLock/bin/Debug/ConcurrencyControlUsingLock.pdb
+/Users/admin/Projects/PDC/ConcurrencyControlUsingLock/obj/anycpu/Debug/6.1ConcurrencyControlUsingLock.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ConcurrencyControlUsingLock/obj/anycpu/Debug/ConcurrencyControlUsingLock.exe
+/Users/admin/Projects/PDC/ConcurrencyControlUsingLock/obj/anycpu/Debug/ConcurrencyControlUsingLock.pdb

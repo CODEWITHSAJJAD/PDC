@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPHostServer/obj/anycpu/Debug/TCPHostServerJ.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPHostServer/obj/anycpu/Debug/TCPHostServerJ.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPHostServer/bin/Debug/TCPHostServer.exe
+/Users/admin/Projects/PDC/TCPHostServer/bin/Debug/TCPHostServer.pdb
+/Users/admin/Projects/PDC/TCPHostServer/obj/anycpu/Debug/TCPHostServer.exe
+/Users/admin/Projects/PDC/TCPHostServer/obj/anycpu/Debug/TCPHostServer.pdb

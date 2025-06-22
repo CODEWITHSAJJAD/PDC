@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPClientJ/bin/Debug/TCPClientJ.exe
+/Users/admin/Projects/PDC/TCPClientJ/bin/Debug/TCPClientJ.pdb
+/Users/admin/Projects/PDC/TCPClientJ/obj/anycpu/Debug/TCPClientJ.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPClientJ/obj/anycpu/Debug/TCPClientJ.exe
+/Users/admin/Projects/PDC/TCPClientJ/obj/anycpu/Debug/TCPClientJ.pdb
+/Users/admin/Projects/PDC/TCPClientJ/obj/anycpu/Debug/TCPClientJ.csproj.AssemblyReference.cache

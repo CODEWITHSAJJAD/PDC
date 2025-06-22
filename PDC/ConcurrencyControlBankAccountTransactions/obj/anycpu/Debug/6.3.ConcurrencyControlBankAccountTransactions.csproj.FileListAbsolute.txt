@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/obj/anycpu/Debug/6.3.ConcurrencyControlBankAccountTransactions.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/obj/anycpu/Debug/6.3.ConcurrencyControlBankAccountTransactions.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/bin/Debug/ConcurrencyControlBankAccountTransactions.exe
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/bin/Debug/ConcurrencyControlBankAccountTransactions.pdb
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/obj/anycpu/Debug/ConcurrencyControlBankAccountTransactions.exe
+/Users/admin/Projects/PDC/ConcurrencyControlBankAccountTransactions/obj/anycpu/Debug/ConcurrencyControlBankAccountTransactions.pdb

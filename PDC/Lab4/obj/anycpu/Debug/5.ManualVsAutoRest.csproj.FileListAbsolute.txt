@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/Lab4/bin/Debug/Lab4.exe
+/Users/admin/Projects/PDC/Lab4/bin/Debug/Lab4.pdb
+/Users/admin/Projects/PDC/Lab4/obj/anycpu/Debug/5.ManualVsAutoRest.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/Lab4/obj/anycpu/Debug/Lab4.exe
+/Users/admin/Projects/PDC/Lab4/obj/anycpu/Debug/Lab4.pdb

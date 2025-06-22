@@ -1,0 +1,12 @@
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/bin/Debug/Introduction.exe
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/bin/Debug/Introduction.pdb
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/obj/anycpu/Debug/Introduction.csproj.AssemblyReference.cache
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/obj/anycpu/Debug/Introduction.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/obj/anycpu/Debug/Introduction.exe
+/Users/admin/Documents/1.BIIT Courses/Spring25/PDC/Implementation/Introduction/obj/anycpu/Debug/Introduction.pdb
+/Users/admin/Projects/PDC/Introduction/bin/Debug/Introduction.exe
+/Users/admin/Projects/PDC/Introduction/bin/Debug/Introduction.pdb
+/Users/admin/Projects/PDC/Introduction/obj/anycpu/Debug/Introduction.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/Introduction/obj/anycpu/Debug/Introduction.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/Introduction/obj/anycpu/Debug/Introduction.exe
+/Users/admin/Projects/PDC/Introduction/obj/anycpu/Debug/Introduction.pdb

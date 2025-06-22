@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/W2_TasksBasics/bin/Debug/W2_TasksBasics.exe
+/Users/admin/Projects/PDC/W2_TasksBasics/bin/Debug/W2_TasksBasics.pdb
+/Users/admin/Projects/PDC/W2_TasksBasics/obj/anycpu/Debug/2.TasksBasics.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/W2_TasksBasics/obj/anycpu/Debug/W2_TasksBasics.exe
+/Users/admin/Projects/PDC/W2_TasksBasics/obj/anycpu/Debug/W2_TasksBasics.pdb

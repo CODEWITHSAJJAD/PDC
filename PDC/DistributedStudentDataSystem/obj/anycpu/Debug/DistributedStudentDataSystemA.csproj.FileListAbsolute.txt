@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/DistributedStudentDataSystem/bin/Debug/DistributedStudentDataSystem.exe
+/Users/admin/Projects/PDC/DistributedStudentDataSystem/bin/Debug/DistributedStudentDataSystem.pdb
+/Users/admin/Projects/PDC/DistributedStudentDataSystem/obj/anycpu/Debug/DistributedStudentDataSystemA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/DistributedStudentDataSystem/obj/anycpu/Debug/DistributedStudentDataSystem.exe
+/Users/admin/Projects/PDC/DistributedStudentDataSystem/obj/anycpu/Debug/DistributedStudentDataSystem.pdb

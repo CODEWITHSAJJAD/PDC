@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/DeadLockDemo/bin/Debug/DeadLockDemo.exe
+/Users/admin/Projects/PDC/DeadLockDemo/bin/Debug/DeadLockDemo.pdb
+/Users/admin/Projects/PDC/DeadLockDemo/obj/anycpu/Debug/DeadLockDemo.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/DeadLockDemo/obj/anycpu/Debug/DeadLockDemo.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/DeadLockDemo/obj/anycpu/Debug/DeadLockDemo.exe
+/Users/admin/Projects/PDC/DeadLockDemo/obj/anycpu/Debug/DeadLockDemo.pdb

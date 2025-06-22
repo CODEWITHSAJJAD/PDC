@@ -1,0 +1,9 @@
+/Users/admin/Projects/PDC/TCPClientB/bin/Debug/TCPClientB.exe
+/Users/admin/Projects/PDC/TCPClientB/bin/Debug/TCPClientB.pdb
+/Users/admin/Projects/PDC/TCPClientB/obj/anycpu/Debug/TCPClientB.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPClientB/obj/anycpu/Debug/TCPClientB.exe
+/Users/admin/Projects/PDC/TCPClientB/obj/anycpu/Debug/TCPClientB.pdb
+/Users/admin/Projects/PDC/TCPClientB/bin/Debug/StudentData.dll
+/Users/admin/Projects/PDC/TCPClientB/bin/Debug/StudentData.pdb
+/Users/admin/Projects/PDC/TCPClientB/obj/anycpu/Debug/TCPClientB.csproj.CopyComplete
+/Users/admin/Projects/PDC/TCPClientB/obj/anycpu/Debug/TCPClientB.csproj.AssemblyReference.cache

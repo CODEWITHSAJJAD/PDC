@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/obj/anycpu/Debug/ReaderWriterLockSlimDemo.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/obj/anycpu/Debug/ReaderWriterLockSlimDemo.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/bin/Debug/ReaderWriterLockSlimDemo.exe
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/bin/Debug/ReaderWriterLockSlimDemo.pdb
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/obj/anycpu/Debug/ReaderWriterLockSlimDemo.exe
+/Users/admin/Projects/PDC/ReaderWriterLockSlimDemo/obj/anycpu/Debug/ReaderWriterLockSlimDemo.pdb

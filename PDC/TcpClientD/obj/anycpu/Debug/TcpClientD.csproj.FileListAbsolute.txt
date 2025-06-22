@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TcpClientD/bin/Debug/TcpClientD.exe
+/Users/admin/Projects/PDC/TcpClientD/bin/Debug/TcpClientD.pdb
+/Users/admin/Projects/PDC/TcpClientD/obj/anycpu/Debug/TcpClientD.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TcpClientD/obj/anycpu/Debug/TcpClientD.exe
+/Users/admin/Projects/PDC/TcpClientD/obj/anycpu/Debug/TcpClientD.pdb

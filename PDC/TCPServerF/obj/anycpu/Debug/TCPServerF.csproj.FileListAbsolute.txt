@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPServerF/bin/Debug/TCPServerF.exe
+/Users/admin/Projects/PDC/TCPServerF/bin/Debug/TCPServerF.pdb
+/Users/admin/Projects/PDC/TCPServerF/obj/anycpu/Debug/TCPServerF.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPServerF/obj/anycpu/Debug/TCPServerF.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerF/obj/anycpu/Debug/TCPServerF.exe
+/Users/admin/Projects/PDC/TCPServerF/obj/anycpu/Debug/TCPServerF.pdb

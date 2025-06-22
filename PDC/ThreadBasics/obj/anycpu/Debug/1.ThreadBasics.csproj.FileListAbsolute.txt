@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/ThreadBasics/bin/Debug/ThreadBasics.exe
+/Users/admin/Projects/PDC/ThreadBasics/bin/Debug/ThreadBasics.pdb
+/Users/admin/Projects/PDC/ThreadBasics/obj/anycpu/Debug/1.ThreadBasics.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ThreadBasics/obj/anycpu/Debug/ThreadBasics.exe
+/Users/admin/Projects/PDC/ThreadBasics/obj/anycpu/Debug/ThreadBasics.pdb

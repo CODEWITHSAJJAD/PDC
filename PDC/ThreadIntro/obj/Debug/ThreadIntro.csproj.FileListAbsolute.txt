@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/ThreadIntro/bin/Debug/ThreadIntro.exe
+/Users/admin/Projects/PDC/ThreadIntro/bin/Debug/ThreadIntro.pdb
+/Users/admin/Projects/PDC/ThreadIntro/obj/Debug/ThreadIntro.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/ThreadIntro/obj/Debug/ThreadIntro.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ThreadIntro/obj/Debug/ThreadIntro.exe
+/Users/admin/Projects/PDC/ThreadIntro/obj/Debug/ThreadIntro.pdb

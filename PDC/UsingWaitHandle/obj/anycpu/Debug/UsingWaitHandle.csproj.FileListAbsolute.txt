@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/UsingWaitHandle/bin/Debug/UsingWaitHandle.exe
+/Users/admin/Projects/PDC/UsingWaitHandle/bin/Debug/UsingWaitHandle.pdb
+/Users/admin/Projects/PDC/UsingWaitHandle/obj/anycpu/Debug/UsingWaitHandle.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/UsingWaitHandle/obj/anycpu/Debug/UsingWaitHandle.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/UsingWaitHandle/obj/anycpu/Debug/UsingWaitHandle.exe
+/Users/admin/Projects/PDC/UsingWaitHandle/obj/anycpu/Debug/UsingWaitHandle.pdb

@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/PrinterSynch/bin/Debug/PrinterSynch.exe
+/Users/admin/Projects/PDC/PrinterSynch/bin/Debug/PrinterSynch.pdb
+/Users/admin/Projects/PDC/PrinterSynch/obj/anycpu/Debug/6.PrinterSynch.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/PrinterSynch/obj/anycpu/Debug/PrinterSynch.exe
+/Users/admin/Projects/PDC/PrinterSynch/obj/anycpu/Debug/PrinterSynch.pdb

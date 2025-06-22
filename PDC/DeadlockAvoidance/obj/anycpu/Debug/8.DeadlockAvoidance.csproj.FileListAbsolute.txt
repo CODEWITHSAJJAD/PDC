@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/DeadlockAvoidance/bin/Debug/DeadlockAvoidance.exe
+/Users/admin/Projects/PDC/DeadlockAvoidance/bin/Debug/DeadlockAvoidance.pdb
+/Users/admin/Projects/PDC/DeadlockAvoidance/obj/anycpu/Debug/8.DeadlockAvoidance.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/DeadlockAvoidance/obj/anycpu/Debug/DeadlockAvoidance.exe
+/Users/admin/Projects/PDC/DeadlockAvoidance/obj/anycpu/Debug/DeadlockAvoidance.pdb

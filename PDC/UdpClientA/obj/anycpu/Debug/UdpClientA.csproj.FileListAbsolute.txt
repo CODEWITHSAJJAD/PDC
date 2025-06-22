@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/UdpClientA/bin/Debug/UdpClientA.exe
+/Users/admin/Projects/PDC/UdpClientA/bin/Debug/UdpClientA.pdb
+/Users/admin/Projects/PDC/UdpClientA/obj/anycpu/Debug/UdpClientA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/UdpClientA/obj/anycpu/Debug/UdpClientA.exe
+/Users/admin/Projects/PDC/UdpClientA/obj/anycpu/Debug/UdpClientA.pdb

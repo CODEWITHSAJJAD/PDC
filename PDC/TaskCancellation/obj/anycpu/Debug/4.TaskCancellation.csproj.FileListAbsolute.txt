@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/TaskCancellation/bin/Debug/TaskCancellation.exe
+/Users/admin/Projects/PDC/TaskCancellation/bin/Debug/TaskCancellation.pdb
+/Users/admin/Projects/PDC/TaskCancellation/obj/anycpu/Debug/4.TaskCancellation.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TaskCancellation/obj/anycpu/Debug/TaskCancellation.exe
+/Users/admin/Projects/PDC/TaskCancellation/obj/anycpu/Debug/TaskCancellation.pdb

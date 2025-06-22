@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/ConcurrencyControlUsingMonitor/bin/Debug/ConcurrencyControlUsingMonitor.exe
+/Users/admin/Projects/PDC/ConcurrencyControlUsingMonitor/bin/Debug/ConcurrencyControlUsingMonitor.pdb
+/Users/admin/Projects/PDC/ConcurrencyControlUsingMonitor/obj/anycpu/Debug/6.2ConcurrencyControlUsingMonitor.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ConcurrencyControlUsingMonitor/obj/anycpu/Debug/ConcurrencyControlUsingMonitor.exe
+/Users/admin/Projects/PDC/ConcurrencyControlUsingMonitor/obj/anycpu/Debug/ConcurrencyControlUsingMonitor.pdb

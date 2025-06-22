@@ -1,0 +1,2 @@
+/Users/admin/Projects/PDC/TCPBroadCastServerD/obj/anycpu/Debug/TCPBroadCastServerD.csproj.AssemblyReference.cache
+/Users/admin/Projects/PDC/TCPBroadCastServerD/obj/anycpu/Debug/TCPBroadCastServerD.csproj.CoreCompileInputs.cache

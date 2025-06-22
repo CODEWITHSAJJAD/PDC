@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPServerSimple/bin/Debug/TCPServerSimple.exe
+/Users/admin/Projects/PDC/TCPServerSimple/bin/Debug/TCPServerSimple.pdb
+/Users/admin/Projects/PDC/TCPServerSimple/obj/anycpu/Debug/TCPServerA.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerSimple/obj/anycpu/Debug/TCPServerSimple.exe
+/Users/admin/Projects/PDC/TCPServerSimple/obj/anycpu/Debug/TCPServerSimple.pdb
+/Users/admin/Projects/PDC/TCPServerSimple/obj/anycpu/Debug/TCPServerA.csproj.AssemblyReference.cache

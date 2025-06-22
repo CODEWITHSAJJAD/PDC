@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/ReaderWriter/bin/Debug/ReaderWriter.exe
+/Users/admin/Projects/PDC/ReaderWriter/bin/Debug/ReaderWriter.pdb
+/Users/admin/Projects/PDC/ReaderWriter/obj/anycpu/Debug/9.ReaderWriter.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/ReaderWriter/obj/anycpu/Debug/ReaderWriter.exe
+/Users/admin/Projects/PDC/ReaderWriter/obj/anycpu/Debug/ReaderWriter.pdb

@@ -1,0 +1,6 @@
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/bin/Debug/TCPServerWithMultiClients.exe
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/bin/Debug/TCPServerWithMultiClients.pdb
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/obj/anycpu/Debug/TCPServerCWithMultiClients.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/obj/anycpu/Debug/TCPServerWithMultiClients.exe
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/obj/anycpu/Debug/TCPServerWithMultiClients.pdb
+/Users/admin/Projects/PDC/TCPServerWithMultiClients/obj/anycpu/Debug/TCPServerCWithMultiClients.csproj.AssemblyReference.cache

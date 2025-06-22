@@ -1,0 +1,5 @@
+/Users/admin/Projects/PDC/StudentData/bin/Debug/StudentData.dll
+/Users/admin/Projects/PDC/StudentData/bin/Debug/StudentData.pdb
+/Users/admin/Projects/PDC/StudentData/obj/Debug/StudentData.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/PDC/StudentData/obj/Debug/StudentData.dll
+/Users/admin/Projects/PDC/StudentData/obj/Debug/StudentData.pdb
