@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUQOON\\source\\repos\\TcpClientWithMultipleServers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A525D4B-C4C7-4EB7-AC1A-4C2B6DBB4F48}|TcpClientWithMultipleServers\\TcpClientWithMultipleServers.csproj|c:\\users\\suqoon\\source\\repos\\tcpclientwithmultipleservers\\tcpclientwithmultipleservers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A525D4B-C4C7-4EB7-AC1A-4C2B6DBB4F48}|TcpClientWithMultipleServers\\TcpClientWithMultipleServers.csproj|solutionrelative:tcpclientwithmultipleservers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A525D4B-C4C7-4EB7-AC1A-4C2B6DBB4F48}|TcpClientWithMultipleServers\\TcpClientWithMultipleServers.csproj|c:\\users\\suqoon\\source\\repos\\tcpclientwithmultipleservers\\tcpclientwithmultipleservers\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A525D4B-C4C7-4EB7-AC1A-4C2B6DBB4F48}|TcpClientWithMultipleServers\\TcpClientWithMultipleServers.csproj|solutionrelative:tcpclientwithmultipleservers\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\TcpClientWithMultipleServers\\TcpClientWithMultipleServers\\TCPClient.cs",
+              "RelativeDocumentMoniker": "TcpClientWithMultipleServers\\TCPClient.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\TcpClientWithMultipleServers\\TcpClientWithMultipleServers\\TCPClient.cs",
+              "RelativeToolTip": "TcpClientWithMultipleServers\\TCPClient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:48:16.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\TcpClientWithMultipleServers\\TcpClientWithMultipleServers\\Program.cs",
+              "RelativeDocumentMoniker": "TcpClientWithMultipleServers\\Program.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\TcpClientWithMultipleServers\\TcpClientWithMultipleServers\\Program.cs",
+              "RelativeToolTip": "TcpClientWithMultipleServers\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:42:13.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

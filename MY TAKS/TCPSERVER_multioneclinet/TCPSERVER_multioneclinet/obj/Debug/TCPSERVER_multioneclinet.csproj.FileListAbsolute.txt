@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\bin\Debug\TCPSERVER_multioneclinet.exe.config
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\bin\Debug\TCPSERVER_multioneclinet.exe
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\bin\Debug\TCPSERVER_multioneclinet.pdb
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\obj\Debug\TCPSERVER_multioneclinet.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\obj\Debug\TCPSERVER_multioneclinet.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\obj\Debug\TCPSERVER_multioneclinet.exe
+C:\Users\SUQOON\source\repos\TCPSERVER_multioneclinet\TCPSERVER_multioneclinet\obj\Debug\TCPSERVER_multioneclinet.pdb

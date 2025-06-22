@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUQOON\\source\\repos\\Multisuse_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89B900B1-52A0-4124-B59F-141C60DE6669}|Multisuse_Server\\Multisuse_Server.csproj|c:\\users\\suqoon\\source\\repos\\multisuse_server\\multisuse_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B900B1-52A0-4124-B59F-141C60DE6669}|Multisuse_Server\\Multisuse_Server.csproj|solutionrelative:multisuse_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\Multisuse_Server\\Multisuse_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Multisuse_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\Multisuse_Server\\Multisuse_Server\\Program.cs",
+              "RelativeToolTip": "Multisuse_Server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:42:34.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

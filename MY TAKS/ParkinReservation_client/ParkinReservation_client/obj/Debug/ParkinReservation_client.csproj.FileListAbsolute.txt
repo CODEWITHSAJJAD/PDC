@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\bin\Debug\ParkinReservation_client.exe.config
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\bin\Debug\ParkinReservation_client.exe
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\bin\Debug\ParkinReservation_client.pdb
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\obj\Debug\ParkinReservation_client.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\obj\Debug\ParkinReservation_client.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\obj\Debug\ParkinReservation_client.exe
+C:\Users\SUQOON\source\repos\ParkinReservation_client\ParkinReservation_client\obj\Debug\ParkinReservation_client.pdb

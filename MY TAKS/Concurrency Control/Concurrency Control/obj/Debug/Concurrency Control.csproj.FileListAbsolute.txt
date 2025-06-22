@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\bin\Debug\Concurrency Control.exe.config
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\bin\Debug\Concurrency Control.exe
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\bin\Debug\Concurrency Control.pdb
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\obj\Debug\Concurrency Control.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\obj\Debug\Concurrency Control.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\obj\Debug\Concurrency Control.exe
+C:\Users\SUQOON\source\repos\Concurrency Control\Concurrency Control\obj\Debug\Concurrency Control.pdb

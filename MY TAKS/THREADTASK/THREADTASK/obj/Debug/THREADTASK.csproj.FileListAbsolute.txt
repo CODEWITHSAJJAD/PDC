@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\bin\Debug\THREADTASK.exe.config
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\bin\Debug\THREADTASK.exe
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\bin\Debug\THREADTASK.pdb
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\obj\Debug\THREADTASK.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\obj\Debug\THREADTASK.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\obj\Debug\THREADTASK.exe
+C:\Users\SUQOON\source\repos\THREADTASK\THREADTASK\obj\Debug\THREADTASK.pdb

@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\bin\Debug\tcp_srvr.exe.config
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\bin\Debug\tcp_srvr.exe
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\bin\Debug\tcp_srvr.pdb
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\obj\Debug\tcp_srvr.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\obj\Debug\tcp_srvr.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\obj\Debug\tcp_srvr.exe
+C:\Users\SUQOON\source\repos\tcp_srvr\tcp_srvr\obj\Debug\tcp_srvr.pdb

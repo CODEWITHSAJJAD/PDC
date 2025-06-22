@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUQOON\\source\\repos\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992D71DA-DDAD-4AA9-B4EC-964C9B18B1A4}|BankingSystem\\BankingSystem.csproj|c:\\users\\suqoon\\source\\repos\\bankingsystem\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992D71DA-DDAD-4AA9-B4EC-964C9B18B1A4}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeToolTip": "BankingSystem\\Program.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAswO4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:28:03.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

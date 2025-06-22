@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\bin\Debug\Assignment_server.exe.config
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\bin\Debug\Assignment_server.exe
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\bin\Debug\Assignment_server.pdb
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\obj\Debug\Assignment_server.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\obj\Debug\Assignment_server.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\obj\Debug\Assignment_server.exe
+C:\Users\SUQOON\source\repos\Assignment_server\Assignment_server\obj\Debug\Assignment_server.pdb

@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\bin\Debug\CHAT_SERVER.exe.config
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\bin\Debug\CHAT_SERVER.exe
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\bin\Debug\CHAT_SERVER.pdb
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\obj\Debug\CHAT_SERVER.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\obj\Debug\CHAT_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\obj\Debug\CHAT_SERVER.exe
+C:\Users\SUQOON\source\repos\CHAT_SERVER\CHAT_SERVER\obj\Debug\CHAT_SERVER.pdb

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|c:\\users\\suqoon\\source\\repos\\loadbalance_proxyserver\\loadbalance_proxyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\loadbalance_proxyserver\\randomserverpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\randomserverpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\loadbalance_proxyserver\\serverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\serverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\loadbalance_proxyserver\\roundrobinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\roundrobinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\loadbalance_proxyserver\\weightedroundrobinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\weightedroundrobinpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\loadbalance_proxyserver\\weightedrandomserverpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}|LoadBalance_ProxyServer\\LoadBalance_ProxyServer.csproj|solutionrelative:loadbalance_proxyserver\\weightedrandomserverpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeightedRoundRobinPool.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\WeightedRoundRobinPool.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\WeightedRoundRobinPool.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\WeightedRoundRobinPool.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\WeightedRoundRobinPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:17.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeightedRandomServerPool.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\WeightedRandomServerPool.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\WeightedRandomServerPool.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\WeightedRandomServerPool.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\WeightedRandomServerPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\ServerInfo.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\ServerInfo.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\ServerInfo.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\ServerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundRobinPool.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\RoundRobinPool.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\RoundRobinPool.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\RoundRobinPool.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\RoundRobinPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:12.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomServerPool.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\RandomServerPool.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\RandomServerPool.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\RandomServerPool.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\RandomServerPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:10.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\Program.cs",
+              "RelativeDocumentMoniker": "LoadBalance_ProxyServer\\Program.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\LoadBalance_ProxyServer\\LoadBalance_ProxyServer\\Program.cs",
+              "RelativeToolTip": "LoadBalance_ProxyServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:18:02.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

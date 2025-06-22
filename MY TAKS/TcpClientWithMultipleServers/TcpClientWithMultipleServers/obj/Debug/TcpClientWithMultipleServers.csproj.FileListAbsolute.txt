@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\obj\Debug\TcpClientWithMultipleServers.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\obj\Debug\TcpClientWithMultipleServers.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\bin\Debug\TcpClientWithMultipleServers.exe.config
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\bin\Debug\TcpClientWithMultipleServers.exe
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\bin\Debug\TcpClientWithMultipleServers.pdb
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\obj\Debug\TcpClientWithMultipleServers.exe
+C:\Users\SUQOON\source\repos\TcpClientWithMultipleServers\TcpClientWithMultipleServers\obj\Debug\TcpClientWithMultipleServers.pdb

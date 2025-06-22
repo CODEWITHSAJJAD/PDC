@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\SUQOON\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb

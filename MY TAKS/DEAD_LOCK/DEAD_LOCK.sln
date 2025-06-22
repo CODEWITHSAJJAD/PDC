@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35723.152 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEAD_LOCK", "DEAD_LOCK\DEAD_LOCK.csproj", "{696A2276-6AFC-40A2-A009-784787369945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696A2276-6AFC-40A2-A009-784787369945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696A2276-6AFC-40A2-A009-784787369945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696A2276-6AFC-40A2-A009-784787369945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696A2276-6AFC-40A2-A009-784787369945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0042EF8-2CCB-4E66-8F46-9F0F109277BE}
+	EndGlobalSection
+EndGlobal

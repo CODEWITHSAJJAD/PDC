@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUQOON\\source\\repos\\Assignment_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C5777D-04FE-4BC6-9F56-A9B6EF9E3101}|Assignment_server\\Assignment_server.csproj|c:\\users\\suqoon\\source\\repos\\assignment_server\\assignment_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C5777D-04FE-4BC6-9F56-A9B6EF9E3101}|Assignment_server\\Assignment_server.csproj|solutionrelative:assignment_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUQOON\\source\\repos\\Assignment_server\\Assignment_server\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_server\\Program.cs",
+              "ToolTip": "C:\\Users\\SUQOON\\source\\repos\\Assignment_server\\Assignment_server\\Program.cs",
+              "RelativeToolTip": "Assignment_server\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:58:17.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\bin\Debug\tcp_clnt.exe.config
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\bin\Debug\tcp_clnt.exe
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\bin\Debug\tcp_clnt.pdb
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\obj\Debug\tcp_clnt.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\obj\Debug\tcp_clnt.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\obj\Debug\tcp_clnt.exe
+C:\Users\SUQOON\source\repos\tcp_clnt\tcp_clnt\obj\Debug\tcp_clnt.pdb

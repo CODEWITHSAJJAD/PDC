@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\bin\Debug\DEAD_LOCK.exe.config
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\bin\Debug\DEAD_LOCK.exe
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\bin\Debug\DEAD_LOCK.pdb
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\obj\Debug\DEAD_LOCK.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\obj\Debug\DEAD_LOCK.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\obj\Debug\DEAD_LOCK.exe
+C:\Users\SUQOON\source\repos\DEAD_LOCK\DEAD_LOCK\obj\Debug\DEAD_LOCK.pdb

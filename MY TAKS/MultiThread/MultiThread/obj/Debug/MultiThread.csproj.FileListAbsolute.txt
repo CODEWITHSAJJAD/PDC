@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\SUQOON\source\repos\MultiThread\MultiThread\obj\Debug\MultiThread.pdb

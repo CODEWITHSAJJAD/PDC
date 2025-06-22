@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\THREAD\THREAD\bin\Debug\THREAD.exe.config
+C:\Users\SUQOON\source\repos\THREAD\THREAD\bin\Debug\THREAD.exe
+C:\Users\SUQOON\source\repos\THREAD\THREAD\bin\Debug\THREAD.pdb
+C:\Users\SUQOON\source\repos\THREAD\THREAD\obj\Debug\THREAD.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\THREAD\THREAD\obj\Debug\THREAD.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\THREAD\THREAD\obj\Debug\THREAD.exe
+C:\Users\SUQOON\source\repos\THREAD\THREAD\obj\Debug\THREAD.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35723.152 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadBalance_ProxyServer", "LoadBalance_ProxyServer\LoadBalance_ProxyServer.csproj", "{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2EF82A-BBC6-4A80-BD8C-AE0A1E4011CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8C035A-7103-4D45-AACF-BDDC8C96BB4F}
+	EndGlobalSection
+EndGlobal

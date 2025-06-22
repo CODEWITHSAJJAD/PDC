@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\bin\Debug\Assignment_client.exe.config
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\bin\Debug\Assignment_client.exe
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\bin\Debug\Assignment_client.pdb
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\obj\Debug\Assignment_client.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\obj\Debug\Assignment_client.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\obj\Debug\Assignment_client.exe
+C:\Users\SUQOON\source\repos\Assignment_client\Assignment_client\obj\Debug\Assignment_client.pdb

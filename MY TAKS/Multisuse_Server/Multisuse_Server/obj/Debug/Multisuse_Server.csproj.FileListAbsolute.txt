@@ -1,0 +1,7 @@
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\bin\Debug\Multisuse_Server.exe.config
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\bin\Debug\Multisuse_Server.exe
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\bin\Debug\Multisuse_Server.pdb
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\obj\Debug\Multisuse_Server.csproj.AssemblyReference.cache
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\obj\Debug\Multisuse_Server.csproj.CoreCompileInputs.cache
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\obj\Debug\Multisuse_Server.exe
+C:\Users\SUQOON\source\repos\Multisuse_Server\Multisuse_Server\obj\Debug\Multisuse_Server.pdb
